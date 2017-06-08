@@ -2,5 +2,3 @@ test for lerning
 add a new line
 say hello
 creating a new branch is qiuck AND easy
-
-
