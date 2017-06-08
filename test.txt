@@ -1,4 +1,6 @@
 test for lerning
 add a new line
 say hello
-is simple and easy
+creating a new branch is qiuck AND easy
+
+
