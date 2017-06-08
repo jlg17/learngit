@@ -2,5 +2,5 @@ test for lerning
 add a new line
 say hello
 creating a new branch is qiuck AND easy
-i am gjl17 hhhh
+i am gjl17 
 something i learn;
